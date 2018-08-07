@@ -20,4 +20,4 @@ Usar las flags :
 ```javascript
 node app -d "Santo Domingo Republica DOminicana"
 ```
-_PD: el API key usado en Google Maps API fue suministrado por el profesor del curso.
+_PD: el API key usado en Google Maps API fue suministrado por el profesor del curso._
